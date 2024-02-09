@@ -1,0 +1,137 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "image": "./src/assets/card/1.jpg",
+      "price": "Договорная",
+      "title": "ЮВ Феникс",
+      "rating": 1,
+      "category": "Пеларгония"
+    },
+    {
+      "id": 2,
+      "image": "./src/assets/card/2.jpg",
+      "price": "Договорная",
+      "title": "Арбузный фреш",
+      "rating": 2,
+      "category": "Бальзамин"
+    },
+    {
+      "id": 3,
+      "image": "./src/assets/card/3.jpg",
+      "price": "Договорная",
+      "title": "Царская невеста",
+      "rating": 3,
+      "category": "Олеандра"
+    },
+    {
+      "id": 4,
+      "image": "./src/assets/card/4.jpg",
+      "price": "Договорная",
+      "title": "Лара Андреа",
+      "rating": 4,
+      "category": "Хризантема"
+    },
+    {
+      "id": 5,
+      "image": "./src/assets/card/5.jpg",
+      "price": "Договорная",
+      "title": "Уникорн роуз",
+      "rating": 5,
+      "category": "Бегония"
+    },
+    {
+      "id": 6,
+      "image": "./src/assets/card/6.jpg",
+      "price": "Договорная",
+      "title": "Анна Жанет",
+      "rating": 6,
+      "category": "Фуксия"
+    },
+    {
+      "id": 7,
+      "image": "./src/assets/card/7.jpg",
+      "price": "Договорная",
+      "title": "Та Марсель",
+      "rating": 7,
+      "category": "Фуксия"
+    },
+    {
+      "id": 8,
+      "image": "./src/assets/card/8.jpg",
+      "price": "Договорная",
+      "title": "Анна Каренина",
+      "rating": 8,
+      "category": "Хризантема"
+    },
+    {
+      "id": 9,
+      "image": "./src/assets/card/9.jpg",
+      "price": "Договорная",
+      "title": "Новис Ханна",
+      "rating": 9,
+      "category": "Олеандра"
+    },
+    {
+      "id": 10,
+      "image": "./src/assets/card/10.jpg",
+      "price": "Договорная",
+      "title": "Леона Галлактика",
+      "rating": 10,
+      "category": "Бальзамин"
+    },
+    {
+      "id": 11,
+      "image": "./src/assets/card/11.jpg",
+      "price": "Договорная",
+      "title": "Жозефина",
+      "rating": 11,
+      "category": "Пеларгония"
+    },
+    {
+      "id": 12,
+      "image": "./src/assets/card/12.jpg",
+      "price": "Договорная",
+      "title": "Ю моя прелесть",
+      "rating": 12,
+      "category": "Хризантема"
+    }
+  ],
+  "users": [
+    {
+      "email": "nurelnasirov78@gmail.com",
+      "password": "$2a$10$aYvu0UTvirrs4r/Va3emLO9I6JkM6stSetQueGC0msV3EtWVL8zi2",
+      "name": "Sherdos",
+      "id": 1
+    },
+    {
+      "email": "nuraida@gmail.com",
+      "password": "$2a$10$y81bOvCiac44Vs/kuZgfr.kIs.3jSfV3.Dm8Im2u5W1F9kqvnMKXy",
+      "name": "Nuraida",
+      "id": 2
+    },
+    {
+      "email": "muhidinov@gmail.com",
+      "password": "$2a$10$nUnLhzccVfk7cYY5R5Nc/OkPAXLVLpKB7kE0Ae8iayls/vsXTlCVG",
+      "name": "faha",
+      "id": 3
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Игорь",
+      "title": "Хочу сказать огромное Спасибо администратору Ольге! Умничка! Справляется с самыми необычными     романтическими заказами и пожеланиями. Я - требовательный клиент, и я доволен! Потрясающее         обслуживание, быстро,качественно и надежно."
+    },
+    {
+      "id": 2,
+      "name": "Ильяс",
+      "title": "Очень приятно) Подарок понравился, качество хорошее. Пользоваться сервисом удобно, приятно. Порекомендую знакомым."
+    },
+    {
+      "name": "faha",
+      "title": "sssssss",
+      "id": 3
+    }
+  ]
+}

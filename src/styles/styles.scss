@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Rubik;
+    font-weight: 300;
+    font-style: normal;
+}
+.container{
+    max-width: 1110px;
+    width: 100%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none
+}
+ul li{
+    list-style-type: none
+}
+
+@import './about.scss';
+@import './catalog.scss';
+@import './contacts.scss';
+@import './delivery.scss';
+@import './home.scss';
+@import './payment.scss';
+@import './product.scss';
+@import './reviews.scss';
+@import './header.scss';
+@import './card.scss';
+@import './footer.scss';
+@import './auth.scss';
+@import './title.scss';
